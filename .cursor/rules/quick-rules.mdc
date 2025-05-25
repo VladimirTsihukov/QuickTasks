@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Use Kotlin in create Android mobile apps
+- For UI use Jetpack Compose
+- use Cleane Arhitecture
+- use multi-modular approach
